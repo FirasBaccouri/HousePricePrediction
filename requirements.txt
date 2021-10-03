@@ -2,6 +2,5 @@ joblib
 sklearn
 pandas
 numpy
-pickle
 datetime
 streamlit
